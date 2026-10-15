@@ -1,0 +1,19 @@
+operational-ai-copilot/
+│
+├── README.md
+│
+├── dataset/
+│   └── Northstar_Systems_Demo_Data.xlsx
+│
+├── docs/
+│   ├── business_problem.md
+│   ├── architecture.md
+│   ├── sample_questions.md
+│   └── use_cases.md
+│
+├── screenshots/
+│   ├── architecture.png
+│   ├── dataset_domains.png
+│   └── copilot_workflow.png
+│
+└── LICENSE
